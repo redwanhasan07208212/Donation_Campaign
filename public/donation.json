@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co.com/MhnMMDY/Health.png",
+      "title": "Health & Wellness Tips",
+      "category": "Health",
+      "color": "#FF6347"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co.com/7XWm7LK/Education.png",
+      "title": "Online Learning Platforms",
+      "category": "Education",
+      "color": "#1E90FF"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co.com/jJDz6fP/Clothing.png",
+      "title": "Summer Fashion Trends",
+      "category": "Clothing",
+      "color": "#32CD32"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co.com/sJrnb8G/Food.png",
+      "title": "Gourmet Recipes",
+      "category": "Food",
+      "color": "#FFD700"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co.com/MhnMMDY/Health.png",
+      "title": "Fitness Routine",
+      "category": "Health",
+      "color": "#FF6347"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co.com/7XWm7LK/Education.png",
+      "title": "Educational Apps",
+      "category": "Education",
+      "color": "#1E90FF"
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co.com/jJDz6fP/Clothing.png",
+      "title": "Winter Wardrobe Essentials",
+      "category": "Clothing",
+      "color": "#32CD32"
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co.com/sJrnb8G/Food.png",
+      "title": "Vegan Dishes",
+      "category": "Food",
+      "color": "#FFD700"
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co.com/MhnMMDY/Health.png",
+      "title": "Healthy Diet Plan",
+      "category": "Health",
+      "color": "#FF6347"
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co.com/7XWm7LK/Education.png",
+      "title": "Best Books to Read",
+      "category": "Education",
+      "color": "#1E90FF"
+    },
+    {
+      "id": 11,
+      "image": "https://i.ibb.co.com/jJDz6fP/Clothing.png",
+      "title": "Sustainable Clothing Brands",
+      "category": "Clothing",
+      "color": "#32CD32"
+    },
+    {
+      "id": 12,
+      "image": "https://i.ibb.co.com/sJrnb8G/Food.png",
+      "title": "Quick Snacks",
+      "category": "Food",
+      "color": "#FFD700"
+    }
+  ]
+  
