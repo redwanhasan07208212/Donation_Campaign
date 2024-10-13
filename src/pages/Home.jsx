@@ -5,7 +5,7 @@ import DonationCategory from "../components/DonationCategory";
 export default function Home() {
   return (
     <div>
-      <Banner/>
+      <Banner />
       <DonationCategory/>
     </div>
   );

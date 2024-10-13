@@ -1,87 +1,254 @@
 [
-    {
-      "id": 1,
-      "image": "https://i.ibb.co.com/MhnMMDY/Health.png",
-      "title": "Health & Wellness Tips",
-      "category": "Health",
-      "color": "#FF6347"
-    },
-    {
-      "id": 2,
-      "image": "https://i.ibb.co.com/7XWm7LK/Education.png",
-      "title": "Online Learning Platforms",
-      "category": "Education",
-      "color": "#1E90FF"
-    },
-    {
-      "id": 3,
-      "image": "https://i.ibb.co.com/jJDz6fP/Clothing.png",
-      "title": "Summer Fashion Trends",
-      "category": "Clothing",
-      "color": "#32CD32"
-    },
-    {
-      "id": 4,
-      "image": "https://i.ibb.co.com/sJrnb8G/Food.png",
-      "title": "Gourmet Recipes",
-      "category": "Food",
-      "color": "#FFD700"
-    },
-    {
-      "id": 5,
-      "image": "https://i.ibb.co.com/MhnMMDY/Health.png",
-      "title": "Fitness Routine",
-      "category": "Health",
-      "color": "#FF6347"
-    },
-    {
-      "id": 6,
-      "image": "https://i.ibb.co.com/7XWm7LK/Education.png",
-      "title": "Educational Apps",
-      "category": "Education",
-      "color": "#1E90FF"
-    },
-    {
-      "id": 7,
-      "image": "https://i.ibb.co.com/jJDz6fP/Clothing.png",
-      "title": "Winter Wardrobe Essentials",
-      "category": "Clothing",
-      "color": "#32CD32"
-    },
-    {
-      "id": 8,
-      "image": "https://i.ibb.co.com/sJrnb8G/Food.png",
-      "title": "Vegan Dishes",
-      "category": "Food",
-      "color": "#FFD700"
-    },
-    {
-      "id": 9,
-      "image": "https://i.ibb.co.com/MhnMMDY/Health.png",
-      "title": "Healthy Diet Plan",
-      "category": "Health",
-      "color": "#FF6347"
-    },
-    {
-      "id": 10,
-      "image": "https://i.ibb.co.com/7XWm7LK/Education.png",
-      "title": "Best Books to Read",
-      "category": "Education",
-      "color": "#1E90FF"
-    },
-    {
-      "id": 11,
-      "image": "https://i.ibb.co.com/jJDz6fP/Clothing.png",
-      "title": "Sustainable Clothing Brands",
-      "category": "Clothing",
-      "color": "#32CD32"
-    },
-    {
-      "id": 12,
-      "image": "https://i.ibb.co.com/sJrnb8G/Food.png",
-      "title": "Quick Snacks",
-      "category": "Food",
-      "color": "#FFD700"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/MhnMMDY/Health.png",
+    "title": "Health & Wellness Tips",
+    "category": "Health",
+    "color": "#FF6347",
+    "backgroundColor": "rgba(255, 99, 71, 0.2)",
+    "details": [
+      {
+        "point": "Engaging in regular physical activity improves overall health."
+      },
+      {
+        "point": "Eating a balanced diet rich in fruits and vegetables boosts immunity."
+      },
+      {
+        "point": "Regular health check-ups help in early detection of potential health issues."
+      }
+    ],
+    "description": "Health refers to the overall well-being of an individual, encompassing physical, mental, and emotional aspects. It includes various activities like fitness, medical care, and maintaining a balanced diet. Prioritizing health ensures longevity and better quality of life.",
+    "price": "29.99"
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/7XWm7LK/Education.png",
+    "title": "Online Learning Platforms",
+    "category": "Education",
+    "color": "#1E90FF",
+    "backgroundColor": "rgba(30, 144, 255, 0.2)",
+    "details": [
+      {
+        "point": "Flexible learning schedules allow students to learn at their own pace."
+      },
+      {
+        "point": "Access to a wide range of resources enhances the learning experience."
+      },
+      {
+        "point": "Online courses can be more affordable than traditional education."
+      }
+    ],
+    "description": "Education is the foundation of knowledge and personal growth. It enables individuals to learn new skills, critical thinking, and improve cognitive abilities. Whether formal or informal, education helps in understanding the world, fostering innovation, and driving personal success.",
+    "price": "49.99"
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/jJDz6fP/Clothing.png",
+    "title": "Summer Fashion Trends",
+    "category": "Clothing",
+    "color": "#32CD32",
+    "backgroundColor": "rgba(50, 205, 50, 0.2)",
+    "details": [
+      {
+        "point": "Light fabrics such as cotton and linen are popular for warm weather."
+      },
+      {
+        "point": "Bright colors and patterns are in vogue during the summer season."
+      },
+      {
+        "point": "Accessories like hats and sunglasses are essential for summer outfits."
+      }
+    ],
+    "description": "Clothing represents more than just a necessity; it’s a form of self-expression and culture. It provides protection against the elements and reflects personal style, identity, and social status. Fashion trends and designs vary across different regions and eras.",
+    "price": "39.99"
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/sJrnb8G/Food.png",
+    "title": "Gourmet Recipes",
+    "category": "Food",
+    "color": "#FFD700",
+    "backgroundColor": "rgba(255, 215, 0, 0.2)",
+    "details": [
+      {
+        "point": "Using fresh, high-quality ingredients enhances flavor and presentation."
+      },
+      {
+        "point": "Gourmet recipes often incorporate unique cooking techniques for exquisite dishes."
+      },
+      {
+        "point": "Pairing food with the right beverages elevates the dining experience."
+      }
+    ],
+    "description": "Food is essential for sustaining life and is a source of energy, nutrients, and pleasure. Cultures around the world celebrate food in various forms, making it a key part of social interaction, tradition, and nutrition. From simple home-cooked meals to gourmet dishes, food is at the heart of human experience.",
+    "price": "19.99"
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co.com/sJrnb8G/Food.png",
+    "title": "Vegan Dishes",
+    "category": "Food",
+    "color": "#FFD700",
+    "backgroundColor": "rgba(255, 215, 0, 0.2)",
+    "details": [
+      {
+        "point": "Using fresh, high-quality ingredients enhances flavor and presentation."
+      },
+      {
+        "point": "Gourmet recipes often incorporate unique cooking techniques for exquisite dishes."
+      },
+      {
+        "point": "Pairing food with the right beverages elevates the dining experience."
+      }
+    ],
+    "description": "Food is essential for sustaining life and is a source of energy, nutrients, and pleasure. Cultures around the world celebrate food in various forms, making it a key part of social interaction, tradition, and nutrition. From simple home-cooked meals to gourmet dishes, food is at the heart of human experience.",
+    "price": "24.99"
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/jJDz6fP/Clothing.png",
+    "title": "Winter Wardrobe Essentials",
+    "category": "Clothing",
+    "color": "#32CD32",
+    "backgroundColor": "rgba(50, 205, 50, 0.2)",
+    "details": [
+      {
+        "point": "Light fabrics such as cotton and linen are popular for warm weather."
+      },
+      {
+        "point": "Bright colors and patterns are in vogue during the summer season."
+      },
+      {
+        "point": "Accessories like hats and sunglasses are essential for summer outfits."
+      }
+    ],
+    "description": "Clothing represents more than just a necessity; it’s a form of self-expression and culture. It provides protection against the elements and reflects personal style, identity, and social status. Fashion trends and designs vary across different regions and eras.",
+    "price": "34.99"
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co.com/7XWm7LK/Education.png",
+    "title": "Educational Apps",
+    "category": "Education",
+    "color": "#1E90FF",
+    "backgroundColor": "rgba(30, 144, 255, 0.2)",
+    "details": [
+      {
+        "point": "Flexible learning schedules allow students to learn at their own pace."
+      },
+      {
+        "point": "Access to a wide range of resources enhances the learning experience."
+      },
+      {
+        "point": "Online courses can be more affordable than traditional education."
+      }
+    ],
+    "description": "Education is the foundation of knowledge and personal growth. It enables individuals to learn new skills, critical thinking, and improve cognitive abilities. Whether formal or informal, education helps in understanding the world, fostering innovation, and driving personal success.",
+    "price": "59.99"
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co.com/MhnMMDY/Health.png",
+    "title": "Fitness Routine",
+    "category": "Health",
+    "color": "#FF6347",
+    "backgroundColor": "rgba(255, 99, 71, 0.2)",
+    "details": [
+      {
+        "point": "Engaging in regular physical activity improves overall health."
+      },
+      {
+        "point": "Eating a balanced diet rich in fruits and vegetables boosts immunity."
+      },
+      {
+        "point": "Regular health check-ups help in early detection of potential health issues."
+      }
+    ],
+    "description": "Health refers to the overall well-being of an individual, encompassing physical, mental, and emotional aspects. It includes various activities like fitness, medical care, and maintaining a balanced diet. Prioritizing health ensures longevity and better quality of life.",
+    "price": "39.99"
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co.com/MhnMMDY/Health.png",
+    "title": "Healthy Diet Plan",
+    "category": "Health",
+    "color": "#FF6347",
+    "backgroundColor": "rgba(255, 99, 71, 0.2)",
+    "details": [
+      {
+        "point": "Engaging in regular physical activity improves overall health."
+      },
+      {
+        "point": "Eating a balanced diet rich in fruits and vegetables boosts immunity."
+      },
+      {
+        "point": "Regular health check-ups help in early detection of potential health issues."
+      }
+    ],
+    "description": "Health refers to the overall well-being of an individual, encompassing physical, mental, and emotional aspects. It includes various activities like fitness, medical care, and maintaining a balanced diet. Prioritizing health ensures longevity and better quality of life.",
+    "price": "34.99"
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co.com/7XWm7LK/Education.png",
+    "title": "Best Books to Read",
+    "category": "Education",
+    "color": "#1E90FF",
+    "backgroundColor": "rgba(30, 144, 255, 0.2)",
+    "details": [
+      {
+        "point": "Flexible learning schedules allow students to learn at their own pace."
+      },
+      {
+        "point": "Access to a wide range of resources enhances the learning experience."
+      },
+      {
+        "point": "Online courses can be more affordable than traditional education."
+      }
+    ],
+    "description": "Education is the foundation of knowledge and personal growth. It enables individuals to learn new skills, critical thinking, and improve cognitive abilities. Whether formal or informal, education helps in understanding the world, fostering innovation, and driving personal success.",
+    "price": "24.99"
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co.com/jJDz6fP/Clothing.png",
+    "title": "Sustainable Clothing Brands",
+    "category": "Clothing",
+    "color": "#32CD32",
+    "backgroundColor": "rgba(50, 205, 50, 0.2)",
+    "details": [
+      {
+        "point": "Light fabrics such as cotton and linen are popular for warm weather."
+      },
+      {
+        "point": "Bright colors and patterns are in vogue during the summer season."
+      },
+      {
+        "point": "Accessories like hats and sunglasses are essential for summer outfits."
+      }
+    ],
+    "description": "Clothing represents more than just a necessity; it’s a form of self-expression and culture. It provides protection against the elements and reflects personal style, identity, and social status. Fashion trends and designs vary across different regions and eras.",
+    "price": "29.99"
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co.com/sJrnb8G/Food.png",
+    "title": "Quick Snacks",
+    "category": "Food",
+    "color": "#FFD700",
+    "backgroundColor": "rgba(255, 215, 0, 0.2)",
+    "details": [
+      {
+        "point": "Using fresh, high-quality ingredients enhances flavor and presentation."
+      },
+      {
+        "point": "Gourmet recipes often incorporate unique cooking techniques for exquisite dishes."
+      },
+      {
+        "point": "Pairing food with the right beverages elevates the dining experience."
+      }
+    ],
+    "description": "Food is essential for sustaining life and is a source of energy, nutrients, and pleasure. Cultures around the world celebrate food in various forms, making it a key part of social interaction, tradition, and nutrition. From simple home-cooked meals to gourmet dishes, food is at the heart of human experience.",
+    "price": "19.99"
+  }
+]
