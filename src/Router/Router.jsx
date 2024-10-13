@@ -21,10 +21,12 @@ export const router = createBrowserRouter([
       {
         path: "/donation",
         element: <Donation />,
+        loader:()=>fetch(`../donation.json`),
       },
       {
         path: "/statistics",
         element: <Stat />,
+        loader:()=>fetch(`../donation.json`),
       },
     ],
   },
